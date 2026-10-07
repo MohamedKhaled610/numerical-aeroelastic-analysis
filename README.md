@@ -1,4 +1,4 @@
-# numerical-whirl-flutter-aeroelastic-analysis
+# 2DOF Whirl Flutter Stability Analysis
 A MATLAB based aeroelastic analysis suite that evaluates linear equations of motion for single-rotor nacelles to identify whirl flutter boundaries and mode coalescence. The solver conducts parametric stiffness and damping grid sweeps using state space eigenvalue tracking, and validates using time domain response function for given initial disturbance.
 
 
