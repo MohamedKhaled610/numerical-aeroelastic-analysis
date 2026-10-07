@@ -17,4 +17,4 @@ Time Response Function: Employs the ode45 function that uses fourth and fifth Ru
 1. Clone or download the repository.
 2. Open MATLAB and set the directory to this folder.
 3. Alter the Datum parameters as needed or use directly.
-4. Run `main.m` in the command window.
+4. Run `whirl_2dof_model.m` in the command window.
